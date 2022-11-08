@@ -1,0 +1,15 @@
+¿Qué es ser autodidacta?
+Aquella persona que muestra interes por un tema de su interes, y busca profundizar mas sobre el tema que se desea saber ,y aprender por su propia cuenta, de diferentes fuente
+
+INVESTIGAR QUE SON MATRICES
+Se le llama tambien arreglos, son datos ordenados, se usan para almacenar varios valores en una sola variable
+
+La sintaxis para declarar una matriz en C++ es la siguiente: tipoDato nombreMatriz[filas][columnas].
+ejemplos de matrices 
+int myMatriz1[10][5];
+float myMatriz2[5][10];
+string myMatriz3[15][15];
+
+FUENTES DONDE APRENDER A PROGRAMAR 
+Algunos sitios donde aprender a programar
+Una de las personales que me han servido es:udemy, youtube,c++
